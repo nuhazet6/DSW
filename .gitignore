@@ -2,7 +2,7 @@
 .python-version
 .artwork
 *.pyc
-.venv
+.venv/
 db.sqlite3
 .env
 ut0/files/chat_done.dat
